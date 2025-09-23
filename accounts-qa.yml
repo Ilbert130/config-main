@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA testing new for developers web hook APIs "
   contactDetails:
-    name: "Smitha Ray - QA Lead dev"
+    name: "Smitha Ray - QA Lead web hook"
     email: "smitha@eazybank.com"
   onCallSupport:
     - (666) 265-3765
